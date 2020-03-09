@@ -1,0 +1,7 @@
+{
+  "name": "aws-node-alexa-skill",
+  "version": "1.0.0",
+  "description": "This example demonstrates how to use an AWS Lambdas for your custom Alexa skill.",
+  "author": "Jason Herring https://github.com/ordinarykids",
+  "license": "MIT"
+}
